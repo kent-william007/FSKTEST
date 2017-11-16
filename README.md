@@ -1,0 +1,2 @@
+# FSKTEST
+Test  iOS-equipment
